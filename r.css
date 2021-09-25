@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: darkcyan;
+    height: 100px;
+    width: 100px;
+    border: 2px darkcyan;
+    border-radius: 50%;
+    margin-left: 700px;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(32, 75, 218);
+}
+.rrrrr:hover{
+    background-color: darkcyan;
+}
